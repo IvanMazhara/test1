@@ -65,5 +65,4 @@ public class AppointmentService : IAppointmentService
 
           return appointment;
      }
-     
 }
